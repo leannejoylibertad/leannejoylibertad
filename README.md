@@ -1,16 +1,16 @@
-## Hi there 👋
+Hello there 👋💗
+I'm Leanne Joy P. Libertad 💗
+A BS Information Systems major in Business Analytics building my skills in data, technology, and problem-solving.
 
-<!--
-**leannejoylibertad/leannejoylibertad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Role
+BSIS Student (Business Analytics)
+Learning data analysis, systems thinking, and business applications
+Things That Keep Me Preoccupied
+Working on data analysis exercises and class projects
+Creating dashboards for business and organizational insights
+Learning Python, Excel, and basic analytics tools
+Understanding how data supports business decision-making
+Other Interests
+Learning about business trends and real-world applications
+Improving critical thinking and analytical skills
+Building a strong foundation for a career in analytics 💗
