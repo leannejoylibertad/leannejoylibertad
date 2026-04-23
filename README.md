@@ -1,6 +1,6 @@
 # Hello there 👋💗
 
-Hi! I'm **Leanne Joy P. Libertad** 💗  
+I'm **Leanne Joy P. Libertad** 💗  
 A **BS Information Systems major in Business Analytics** building my skills in data, technology, and problem-solving.
 
 ---
