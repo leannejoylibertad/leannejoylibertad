@@ -6,11 +6,11 @@
 
 # Hello there 👋🔥
 
-I'm **Leanne Joy P. Libertad** 🔥
+I'm **Leanne Joy P. Libertad** 
 A **BS Information Systems major in Business Analytics** building my skills in data, technology, and problem-solving.
 
 
-**Current Role:**
+**🔥&nbsp;  &nbsp; CURRENT ROLE &nbsp;**
 
 - 🎓 &nbsp; BSIS Student · Business Analytics track
 - 📊 &nbsp; Learning data analysis, systems thinking, and business applications
@@ -20,9 +20,9 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 
 ---
 
-<div align="center">
+<div align="left">
 
-### 🔥 &nbsp;  &nbsp; THINGS KEEPING ME BUSY &nbsp; 🔥
+### 🔥&nbsp;  &nbsp; THINGS KEEPING ME BUSY &nbsp;
 
 </div>
 
@@ -39,7 +39,7 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 
 <div align="center">
 
-### 🔥 &nbsp; &nbsp; CORE SKILL SET &nbsp; 🔥
+###  &nbsp; &nbsp; CORE SKILL SET &nbsp;
 
 </div>
 
@@ -67,7 +67,7 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 
 <div align="center">
 
-### 🔥 &nbsp; &nbsp; ANALYTICS EXPERTISE &nbsp; 🔥
+###  &nbsp; &nbsp; ANALYTICS EXPERTISE &nbsp; 
 
 </div>
 
@@ -95,7 +95,7 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 
 <div align="center">
 
-### 🔥 &nbsp; &nbsp; OTHER INTERESTS &nbsp; 🔥
+###  &nbsp; &nbsp; OTHER INTERESTS &nbsp; 
 
 </div>
 
@@ -112,7 +112,7 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 
 <div align="center">
 
-### 🔥 &nbsp; &nbsp; TOOLS I'M MASTERING &nbsp; 🔥
+###  &nbsp; &nbsp; TOOLS I'M MASTERING &nbsp; 
 
 </div>
 
@@ -138,7 +138,7 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 
 <div align="center">
 
-### 🔥 &nbsp; `07` &nbsp; GITHUB ECOSYSTEM &nbsp; 🔥
+###  &nbsp;  &nbsp; GITHUB ECOSYSTEM &nbsp; 
 
 <br/>
 
@@ -172,7 +172,7 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 
 <div align="center">
 
-### 🔥 &nbsp; &nbsp; MY EDGE &nbsp; 🔥
+###  &nbsp; &nbsp; MY EDGE &nbsp; 
 
 </div>
 
@@ -198,7 +198,7 @@ That edge is what makes my solutions not just functional — but **impactful**.
 
 <div align="center">
 
-### 🔥 &nbsp; &nbsp; CURRENT MINDSET &nbsp; 🔥
+###  &nbsp; &nbsp; CURRENT MINDSET &nbsp; 
 
 <br/>
 
