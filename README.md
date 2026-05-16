@@ -103,7 +103,7 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 
 - 📰 &nbsp; Learning about **business trends** and real-world applications
 - 🧠 &nbsp; Improving **critical thinking** and analytical skills daily
-- 🚀 &nbsp; Building a **strong foundation** for a future career in analytics 🧡
+- 🚀 &nbsp; Building a **strong foundation** for a future career in analytics 
 - 🌐 &nbsp; Exploring **digital tools** and emerging technologies
 
 <br/>
