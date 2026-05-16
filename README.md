@@ -181,7 +181,7 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 <div align="center">
 
 ```
-                    ANALYTICAL THINKING  🔥  CLEAR COMMUNICATION  🔥  CREATIVE VISION
+            ANALYTICAL THINKING  🔥  CLEAR COMMUNICATION  🔥  CREATIVE VISION
 ```
 
 </div>
