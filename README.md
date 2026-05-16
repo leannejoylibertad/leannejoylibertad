@@ -196,19 +196,6 @@ That edge is what makes my solutions not just functional — but **impactful**.
 
 ---
 
-<div align="center">
-
-###  &nbsp; &nbsp; CURRENT MINDSET &nbsp; 
-
-<br/>
-
-## **🔥 &nbsp; Still Learning. &nbsp; Still Rising. &nbsp; Still Becoming. &nbsp; 🔥**
-
-<br/>
-
-</div>
-
----
 
 <div align="center">
 
