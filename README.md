@@ -4,9 +4,9 @@
 
 </div>
 
-# Hello there 👋💗
+# Hello there 👋🔥
 
-I'm **Leanne Joy P. Libertad** 💗  
+I'm **Leanne Joy P. Libertad** 🔥
 A **BS Information Systems major in Business Analytics** building my skills in data, technology, and problem-solving.
 
 
@@ -22,7 +22,7 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 
 <div align="center">
 
-### 🔥 &nbsp; `02` &nbsp; THINGS KEEPING ME BUSY &nbsp; 🔥
+### 🔥 &nbsp;  &nbsp; THINGS KEEPING ME BUSY &nbsp; 🔥
 
 </div>
 
@@ -39,7 +39,7 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 
 <div align="center">
 
-### 🔥 &nbsp; `03` &nbsp; CORE SKILL SET &nbsp; 🔥
+### 🔥 &nbsp; &nbsp; CORE SKILL SET &nbsp; 🔥
 
 </div>
 
@@ -67,7 +67,7 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 
 <div align="center">
 
-### 🔥 &nbsp; `04` &nbsp; ANALYTICS EXPERTISE &nbsp; 🔥
+### 🔥 &nbsp; &nbsp; ANALYTICS EXPERTISE &nbsp; 🔥
 
 </div>
 
@@ -95,7 +95,7 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 
 <div align="center">
 
-### 🔥 &nbsp; `05` &nbsp; OTHER INTERESTS &nbsp; 🔥
+### 🔥 &nbsp; &nbsp; OTHER INTERESTS &nbsp; 🔥
 
 </div>
 
@@ -112,7 +112,7 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 
 <div align="center">
 
-### 🔥 &nbsp; `06` &nbsp; TOOLS I'M MASTERING &nbsp; 🔥
+### 🔥 &nbsp; &nbsp; TOOLS I'M MASTERING &nbsp; 🔥
 
 </div>
 
@@ -138,29 +138,41 @@ A **BS Information Systems major in Business Analytics** building my skills in d
 
 <div align="center">
 
-### 🔥 &nbsp; `07` &nbsp; MY GITHUB JOURNEY &nbsp; 🔥
+### 🔥 &nbsp; `07` &nbsp; GITHUB ECOSYSTEM &nbsp; 🔥
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&title_color=E87722&text_color=FFD199&icon_color=C1440E&border_color=B5500B&hide_border=false&count_private=true)
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
-<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=transparent&background=00000000&border=B5500B&ring=E87722&fire=C1440E&currStreakLabel=E87722&sideLabels=FFD199&dates=F4A460&sideNums=E87722&currStreakNum=FFFFFF&stroke=B5500B)
 
-<br/>
+![](https://streak-stats.demolab.com?user=leannejoylibertad&theme=transparent&background=00000000&border=B5500B&ring=E87722&fire=C1440E&currStreakLabel=E87722&sideLabels=FFD199&dates=F4A460&sideNums=E87722&currStreakNum=FFFFFF&stroke=B5500B)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent&title_color=E87722&text_color=FFD199&border_color=B5500B)
+![](https://github-readme-stats.vercel.app/api?username=leannejoylibertad&show_icons=true&theme=transparent&title_color=E87722&text_color=FFD199&icon_color=C1440E&border_color=B5500B&hide_border=false&count_private=true&rank_icon=github)
+
+  </td>
+  <td valign="top" width="40%">
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leannejoylibertad&layout=compact&theme=transparent&title_color=E87722&text_color=FFD199&border_color=B5500B&langs_count=8)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leannejoylibertad&bg_color=00000000&color=FFD199&line=E87722&point=C1440E&area=true&area_color=B5500B&hide_border=false&border_color=B5500B&title_color=E87722)
+
+  </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
 
----
 
 <div align="center">
 
-### 🔥 &nbsp; `08` &nbsp; MY EDGE &nbsp; 🔥
+### 🔥 &nbsp; &nbsp; MY EDGE &nbsp; 🔥
 
 </div>
 
@@ -186,7 +198,7 @@ That edge is what makes my solutions not just functional — but **impactful**.
 
 <div align="center">
 
-### 🔥 &nbsp; `09` &nbsp; CURRENT MINDSET &nbsp; 🔥
+### 🔥 &nbsp; &nbsp; CURRENT MINDSET &nbsp; 🔥
 
 <br/>
 
@@ -204,13 +216,11 @@ That edge is what makes my solutions not just functional — but **impactful**.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-B5500B?style=for-the-badge&logo=github&logoColor=FFD199)](https://github.com/YOURUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-B5500B?style=for-the-badge&logo=github&logoColor=FFD199)](https://github.com/leannejoylibertad)
 [![Email](https://img.shields.io/badge/Email-C1440E?style=for-the-badge&logo=gmail&logoColor=FFD199)](mailto:YOUREMAIL@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B3A0F?style=for-the-badge&logo=linkedin&logoColor=FFD199)](https://linkedin.com/in/YOURLINKEDIN)
 
 <br/>
 
-
-</div>
 <br/>
 </div>
